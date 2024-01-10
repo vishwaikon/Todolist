@@ -3,10 +3,11 @@
 Try it here :https://main--cerulean-elf-c15977.netlify.app/
 
 ## UI Demonstration
+![1](https://github.com/vishwaikon/Todolist/assets/75526380/b657fe44-dccd-44a7-9fa8-44fdaf50e22a)
 
-![1](https://github.com/vishwaikon/Todolist/assets/75526380/3c4b5f0d-5481-4d5e-b2f3-ab3b5cc18369)
+![2](https://github.com/vishwaikon/Todolist/assets/75526380/ad305689-5798-4d56-8c4c-c40c28d0e4ff)
 
-![2](https://github.com/vishwaikon/Todolist/assets/75526380/78b477ff-781d-4e3b-9266-e6bee6d450f7)
+![3](https://github.com/vishwaikon/Todolist/assets/75526380/60ddac42-9e41-4776-ac4b-5af598337caf)
 
 
-![3](https://github.com/vishwaikon/Todolist/assets/75526380/e184f717-a8ca-4aaf-8224-fb5127c53f59)
+
