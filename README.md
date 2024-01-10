@@ -2,7 +2,7 @@
 
 Try it here :https://main--cerulean-elf-c15977.netlify.app/
 
-##Screenshots
+## UI Demonstration
 
 ![1](https://github.com/vishwaikon/Todolist/assets/75526380/3c4b5f0d-5481-4d5e-b2f3-ab3b5cc18369)
 
